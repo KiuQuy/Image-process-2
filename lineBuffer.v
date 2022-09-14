@@ -1,4 +1,5 @@
 // Design 
+`timescale 1ns / 1ps
 module lineBuffer
 (
 // [1]: writing one pixel at a time to line buffer
